@@ -1,0 +1,8 @@
+{
+  "name": "Lightman Trust System",
+  "description": "A high-security, multi-jurisdictional trust management and operational governance platform for the Lightman Trust System.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
